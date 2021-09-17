@@ -1,4 +1,4 @@
-## Hi there! Sudipta here!!! 👋
+## Hi there! 👋
 
 
 
