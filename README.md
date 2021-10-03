@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/louislow81/louislow81/master/assets/cover.jpg" align="center">
+
 ## Hello everyone! Sudipta here 👋
 
 
