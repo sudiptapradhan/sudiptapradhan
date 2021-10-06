@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Reactjs
 - 🌱 I’m currently learning MERN and DSA using Java
-- 👯 I’m looking to collaborate on FrontEnd projects
+- 👯 I’m looking to collaborate on UI/UX and Frontend Projects
 - 📫 How to reach me: sudiptap141@gmail.com
 
 
