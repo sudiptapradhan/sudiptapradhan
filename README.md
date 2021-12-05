@@ -1,6 +1,6 @@
 <!-- <img src="https://raw.githubusercontent.com/louislow81/louislow81/master/assets/cover.jpg" align="center"> -->
 
-<h2> Hi there! I'm Sudipta Pradhan! 👋 </h2>
+<h2> Hi there! I'm Sudipta Pradhan! </h2>
 
 
 - 🔭 I’m currently working on Reactjs
